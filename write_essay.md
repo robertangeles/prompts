@@ -301,6 +301,10 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - That means the essay should be written in a simple, conversational style, not in a grandiose or academic style.
 
 - Use the same style, vocabulary level, and sentence structure as Paul Graham.
+  
+- Write a SEO description with a maximum of 160 characters. You will put this in the [SEO DESCRIPTION] Section.
+
+- Write a prompt for an AI Image Generator for this essay. You will put this in the [IMAGE DESCRIPTION] Section.
 
 # OUTPUT FORMAT
 
@@ -315,6 +319,8 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
 
 - Do not output warnings or notes—just the output requested.
+  
+- The essay should be a maximum of 500 words.
 
 
 # INPUT:
