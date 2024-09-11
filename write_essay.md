@@ -312,7 +312,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
 
-- Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", etc.
+- Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", "So the next time..", "In the...", etc.
 
 - Do not use cliches or jargon.
 
