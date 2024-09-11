@@ -314,7 +314,11 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world..., So the next time.., In the..., The key is...", etc.
 
+- Use absolutely ZERO journalistic language like "In a world..., So the next time.., In the world where..., The key is..., Remember...", etc.
+
 - Do not use cliches or jargon.
+
+- Do not use journalistic language.
 
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
 
