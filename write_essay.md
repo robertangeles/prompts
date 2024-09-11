@@ -304,7 +304,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
   
 - Write a SEO description with a maximum of 160 characters. You will put this in the [SEO DESCRIPTION] Section.
 
-- Write a detailked prompt for an AI Image Generator to represent this essay. You will put this in the [IMAGE DESCRIPTION] Section.
+- Write a detailed prompt for an AI Image Generator to represent this essay. You will put this in the [IMAGE DESCRIPTION] Section.
 
 # OUTPUT FORMAT
 
