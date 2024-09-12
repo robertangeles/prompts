@@ -460,7 +460,6 @@ END TEMPLATE
 - Use single-sentence paragraphs to hook readers quickly.
 - Bullets & quick lists are your friend.
 - Always separate ideas clearly.
-- The essay should be a maximum of 525 words.
 
 # INPUT:
 INPUT:
