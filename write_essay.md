@@ -324,6 +324,8 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Do not output warnings or notes—just the output requested.
   
+- The essay should be a maximum of 525 words.
+  
 # INPUT:
 
 INPUT:
