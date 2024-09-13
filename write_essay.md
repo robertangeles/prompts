@@ -320,7 +320,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Do not use journalistic language.
 
-- Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
+- Do not include common setup language in any sentence, including: in conclusion, in closing, so the next time, remember, etc.
 
 - Do not output warnings or notes—just the output requested.
   
