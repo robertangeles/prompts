@@ -302,7 +302,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Use the same style, vocabulary level, and sentence structure as Paul Graham.
   
-- Write a SEO description with a maximum of 160 characters. You will put this in the [SEO DESCRIPTION] Section.
+- Write an attention grabbing hook for aSEO description with a maximum of 160 characters. Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style. You will put this in the [SEO DESCRIPTION] Section.
 
 - Write a detailed prompt for an AI Image Generator to represent this essay. You will put this in the [IMAGE DESCRIPTION] Section.
 
