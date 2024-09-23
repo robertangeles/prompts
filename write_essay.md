@@ -310,7 +310,9 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Do not start items with the same opening words.
 
-- Do not start items with "In a world...", "So the next time...", "In the...", "The key is...", etc.
+- Do not use introductory phrases or sentence starters like "In a world...", "So the next time...", "Next time...", "In the...", "The key is...", etc.
+
+- Do not use stock phrases, clichés, or phrasal templates.
   
 - Write an attention grabbing hook for a SEO description with a maximum of 160 characters. Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style. Use the same style, vocabulary level, and sentence structure as Paul Graham. You will put this in the [SEO DESCRIPTION] Section. 
 
@@ -322,11 +324,11 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
 
-- Use absolutely ZERO cliches or jargon or journalistic language like "In a world...", "So the next time...", "In the...", "The key is...", etc.
+- Use absolutely ZERO cliches or jargon or journalistic language like "In a world...", "So the next time...", "Next time...", "In the...", "The key is...", etc.
 
 - Use absolutely ZERO journalistic language like "In a world..., So the next time.., In the world where..., The key is..., Remember...", etc.
 
-- Do not use cliches or jargon.
+- Do not use cliches or jargon or stock phrases or phrasal templates.
 
 - Do not use journalistic language.
 
