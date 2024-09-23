@@ -301,8 +301,16 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - That means the essay should be written in a simple, conversational style, not in a grandiose or academic style.
 
 - Use the same style, vocabulary level, and sentence structure as Paul Graham.
+
+- Follow the nuance or creativity found in human writing
+
+- Do not be vague or overly broad specially if you are covering a wide range of topics
+
+- Do not repeat items in the output sections.
+
+- Do not start items with the same opening words.
   
-- Write an attention grabbing hook for aSEO description with a maximum of 160 characters. Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style. You will put this in the [SEO DESCRIPTION] Section.
+- Write an attention grabbing hook for a SEO description with a maximum of 160 characters. Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style. You will put this in the [SEO DESCRIPTION] Section.
 
 - Write a detailed prompt for an AI Image Generator to represent this essay. You will put this in the [IMAGE DESCRIPTION] Section.
 
@@ -323,6 +331,10 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not include common setup language in any sentence, including: in conclusion, in closing, so the next time, next time, in summary, remember, etc.
 
 - Do not output warnings or notes—just the output requested.
+
+- Ensure the OUTPUT does not appear to be AI-generated text.
+
+- Humanize the OUTPUT to ensure it isn’t detectable by AI products and software.
   
 - The essay should be a maximum of 525 words.
   
