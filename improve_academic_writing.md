@@ -1,25 +1,35 @@
-Please edit the following text into an academic style and language while making it more compelling. The text is the beginning of a thesis proposal, and it needs to be written in Hebrew for a Hebrew-speaking academic audience. Ensure the language is formal, clear, and engaging. Here is the text to be edited:
+### ChatGPT Prompt:
 
-מבוא:
-בעשור האחרון חלו שינויים משמעותיים במגרש החברתי-כלכלי, עם העברת הטיפול באוכלוסיות חלשות לעמותות באמצעות מכרזים. שינוי זה הביא להעברת תקציבים משמעותיים מכספי המדינה לעמותות רפואיות, אשר נדרשות לייעל את פועלן וליצור השפעה חיובית על הקהילה. דוחות הכספיים של עמותה מסוימת, מראות 200 מיליון שח הכנסות מזכיית מכרזים ו-200 מיליון שח שווי התנדבות.
+I need help editing my essays and literature reviews. Please perform the following tasks:
 
-הצעת מחקר:
-המחקר מבקש להבין איך השימוש בשיטת ניהול פרויקטים מסוג סקרום בעמותות רפואיות משפיע על היכולת של העמותה לקדם עקרונות של קיימות, לתרום לסביבה ולהשיג תוצאות פיננסיות טובות יותר. המחקר יבחן את פוטנציאל מתודולוגיית scrum בעמותות רפואיות בישראל, ויתמקד בהיבטים מרכזיים:
-- חשיבות שקיפות בעמותות הרפואיות בישראל, בהתחשב בהכנסות ממקורות ממשלתיים, בשווי ההתנדבות וקיום אחריות ההנהלה כלפי עובדיה.
-- כיצד משפיעה התמחות המגזר החרדי בעמותות על קיימותן, ללא תקני מדידה ברורים, כאשר בכלל האוכלוסייה, המגזר החרדי מקבל סיוע ממשלתי משמעותי.
-- הצורך בהקניית תקן מדידה לעבודת רכזות ההתנדבות באמצעות מתודולוגיית Scrum.
+- **Structure and Organization:**
+  - Assess the overall structure of the document.
+  - Ensure that each paragraph flows logically to the next.
+  - Confirm that there is a clear introduction, body, and conclusion.
+  - Verify that each paragraph has a clear main idea or purpose.
 
-מטרה:
-מטרת המחקר היא בדיקת של הקשר המערכתי בין ניהול במתודולוגיית scrum על קיימותן של עמותות רפואיות בישראל. יעילות כספית של האדמיניסטרציה ועבודת רכזות התנדבות, על בסיס מדדים כמותיים בהיבטים מערכתיים. בנוסף, אבחן את היתרונות של ניהול אדמיניסטרטיבי בעמותות רפואיות ענקיות בהתאם לכללי Scrum, בעיקר כיצד גישה זו יכולה לשפר את היעילות והקיימות של העמותות בהיעדרות תקן מדידה, בפרט ליעילותן של רכזות התנדבות.
+- **Clarity and Conciseness:**
+  - Identify and suggest revisions for any ambiguous or confusing sentences.
+  - Recommend ways to make the text more concise without losing meaning.
+  - Eliminate any redundancy in the text.
 
-שאלות מחקר:
-- החשיבות של שקיפות כלכלית בעמותות הרפואיות בישראל, בהתחשב בהכנסות ממקורות ממשלתיים, בפרט על הוצאות מנהלה.
-- הבניית תקן מדידה עבור רכזות התנדבות, בשווי ההתנדבות ואיכות השירותים.
-- מדדי תפוקה שניתן לפתח כדי לכמת את עבודת רכזות התנדבות.
-- אחריות ההנהלה כלפי המשאב האנושי. על אף שהעמותות נשענות על מודל כלכלי המבטיח תשלום שכר לעובדים, קיים פער באחריות על ניהול המשאב האנושי.
-- כיצד משפיעה התמחות המגזר החרדי בעמותות על קיימותן של החרדים והעמותות.
+- **Grammar and Syntax:**
+  - Correct grammar, punctuation, and spelling errors.
+  - Ensure proper syntax and sentence variety.
 
-סיכום:
-מחקר זה יציע מסגרת עבודה המבוססת על מתודולוגיית Scrum, שתחקור בהבניית תקן מדידה עבור רכזות התנדבות. התוצאות צפויות לספק תובנות לגבי האימפקט של ניהול גמיש על האדמיניסטרציה בעמותות רפואיות ולתרום לשיפור הפעילות החברתית בקהילה. באמצעות גישה זו, ניתן יהיה לתמוך בהעצמת המתנדבות ובשיפור השירותים המוצעים לאוכלוסיות החלשות, ובכך להבטיח שההשקעות התקציביות יניבו תוצאות חיוביות ומדידות.
+- **Style and Tone:**
+  - Make sure the style is appropriate for an academic setting.
+  - Maintain a consistent tone throughout the document.
+  - Suggest improvements to make the writing more formal and scholarly.
+
+- **Content Accuracy and Relevance:**
+  - Check that the arguments and claims are supported by evidence.
+  - Verify that sources are cited correctly and consistently.
+  - Evaluate the relevance of each section to the overall thesis or research question.
+
+- **Formatting:**
+  - Ensure that the essay is formatted according to [insert style guide, e.g., APA, MLA, Chicago].
+  - Check the consistency of headings, subheadings, fonts, and spacing.
+  - Confirm that the bibliography or reference list is correctly formatted and complete.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
