@@ -340,8 +340,6 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - Humanize the OUTPUT to ensure it isn’t detectable by AI products and software.
   
-- The essay should be a maximum of 525 words.
-  
 # INPUT:
 
 INPUT:
