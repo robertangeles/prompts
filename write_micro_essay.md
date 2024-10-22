@@ -298,7 +298,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 - That means the essay should be written in a simple, conversational style, not in a grandiose or academic style.
 
-- Use the same style, vocabulary level, and sentence structure as Paul Graham.
+- Use the same style, vocabulary level, and sentence structure as Paul Graham using second-person point of view or second-person narrative.
 - Use frequent line breaks to separate ideas.
 - Use active voice; avoid passive voice.
 - Focus on practical, actionable insights.
