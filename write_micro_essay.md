@@ -295,9 +295,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 # OUTPUT INSTRUCTIONS
 
 - Write the essay exactly like Paul Graham would write it as seen in the examples above. 
-
 - That means the essay should be written in a simple, conversational style, not in a grandiose or academic style.
-
 - Use the same style, vocabulary level, and sentence structure as Paul Graham using second-person point of view or second-person narrative.
 - Use frequent line breaks to separate ideas.
 - Use active voice; avoid passive voice.
@@ -334,6 +332,8 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not output warnings or notes—just the output requested.
 
 - The essay should be a maximum of 250 words.
+
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
 
 # INPUT:
 
