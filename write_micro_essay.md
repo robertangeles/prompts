@@ -332,6 +332,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not output warnings or notes—just the output requested.
 
 - The essay should be a maximum of 250 words.
+- Write a concise and precise Twitter version of the essay with a maximum of 280 characters in an [X] Subheading.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
 
