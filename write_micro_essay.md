@@ -320,6 +320,8 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Incorporate data or statistics to support claims when possible.
 - Ask thought-provoking questions to encourage reader reflection.
 - Use ""you"" and ""your"" to directly address the reader.
+- Use a mix of simple, compound, and complex sentences to create a more dynamic flow.
+- Utilize idioms, colloquialisms, or creative language
 - Avoid metaphors and clichés.
 - Avoid generalizations.
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
@@ -335,7 +337,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 # OUTPUT FORMAT
 
-- Output a full, publish-ready essay about the content provided using the instructions above.
+- Output a full, publish-ready essay about the content provided using the instructions above in British English.
 
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", etc.
 
@@ -348,6 +350,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not output warnings or notes—just the output requested.
 
 - The essay should be a maximum of 250 words.
+  
 - Write a concise and precise Twitter version of the essay by maximising a 300 character limit. Append this after an [X] Subheading.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
