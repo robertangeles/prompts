@@ -294,7 +294,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 # OUTPUT INSTRUCTIONS
 
-- Write the essay exactly like Paul Graham would write it as seen in the examples above. 
+- Write the essay exactly like Paul Graham would write it as seen in the examples above using British English. 
 - Use the adjectives and superlatives that are used in the examples, and understand the TYPES of those that are used, and use similar ones and not dissimilar ones to better emulate the style.
 - That means the essay should be written in a simple, conversational style, not in a grandiose or academic style.
 - Use the same style, vocabulary level, and sentence structure as Paul Graham.
@@ -305,7 +305,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not use introductory phrases or sentence starters like "In a world...", "So the next time...", "Next time...", "In the...", "The key is...", etc.
 - Do not use cliches or jargon or stock phrases or phrasal templates in your conclusion paragraphs, hook paragraphs, and lead-ins.
 - Do not include headings or subheadings
-- Do not start sentences with ""But""
+- Do not start items with """"""But, However""""""
 - Use paragraphs of varying lengths, as Paul Graham does
 - Incorporate occasional short, punchy sentences for emphasis
 - End with a strong concluding paragraph that ties back to the opening
@@ -340,7 +340,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 # OUTPUT FORMAT
 
-- Output a full, publish-ready essay about the content provided using the instructions above in British English.
+- Output a full, publish-ready essay about the content provided using the instructions above using British English.
 
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", etc.
 
