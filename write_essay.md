@@ -330,14 +330,13 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not use asterisks.
 - Do not use adjectives and adverbs.
 - Do NOT use these words:
-""""""can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, you're not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, enrich, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting-edge, remarkable, it. remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover,`  boost, bustling, opened up, powerful, inquiries, ever-evolving, so next time you, next time you, so the next time, remember, the key is, balance is, meticulous""""""
+""""""can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, you're not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, enrich, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting-edge, remarkable, it. remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover,`  boost, bustling, opened up, powerful, inquiries, ever-evolving, so next time you, next time you, so the next time, remember, the key is, balance is, meticulous, it's about""""""
   
 - Write a detailed prompt for an AI Image Generator for this essay. You will put this in the [IMAGE DESCRIPTION] Section.
 
 # OUTPUT FORMAT
 
 - Output a full, publish-ready essay about the content provided using the instructions above.
-
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
 
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world...", "So the next time...", "Next time...", "In the...", "The key is...", etc.
