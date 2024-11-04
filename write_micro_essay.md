@@ -295,8 +295,24 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 # OUTPUT INSTRUCTIONS
 
 - Write the essay exactly like Paul Graham would write it as seen in the examples above. 
+- Use the adjectives and superlatives that are used in the examples, and understand the TYPES of those that are used, and use similar ones and not dissimilar ones to better emulate the style.
 - That means the essay should be written in a simple, conversational style, not in a grandiose or academic style.
-- Use the same style, vocabulary level, and sentence structure as Paul Graham using second-person point of view or second-person narrative.
+- Use the same style, vocabulary level, and sentence structure as Paul Graham.
+- Follow the nuance or creativity found in human writing
+- Do not be vague or overly broad specially if you are covering a wide range of topics
+- Do not repeat items in the output sections.
+- Do not start items with the same opening words.
+- Do not use introductory phrases or sentence starters like "In a world...", "So the next time...", "Next time...", "In the...", "The key is...", etc.
+- Do not use cliches or jargon or stock phrases or phrasal templates in your conclusion paragraphs, hook paragraphs, and lead-ins.
+- Do not include headings or subheadings
+- Do not start sentences with ""But""
+- Use paragraphs of varying lengths, as Paul Graham does
+- Incorporate occasional short, punchy sentences for emphasis
+- End with a strong concluding paragraph that ties back to the opening
+- Your writing style is spartan and informative.
+- Use clear, simple language.
+- Employ short, impactful sentences.
+- Incorporate bullet points for easy readability.
 - Use frequent line breaks to separate ideas.
 - Use active voice; avoid passive voice.
 - Focus on practical, actionable insights.
@@ -314,8 +330,8 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not use asterisks.
 - Do not use adjectives and adverbs.
 - Do NOT use these words:
-""""""can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, you're not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, enrich, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting-edge, remarkable, it. remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover,`  boost, bustling, opened up, powerful, inquiries, ever-evolving, so next time you, next time you, so the next time, remember, the key is, balance is""""""
-
+""""""can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, you're not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, enrich, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting-edge, remarkable, it. remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover,`  boost, bustling, opened up, powerful, inquiries, ever-evolving, so next time you, next time you, so the next time, remember, the key is, balance is, meticulous, it's about""""""
+- Write a detailed prompt for an AI Image Generator for this essay. You will put this in the [IMAGE DESCRIPTION] Section.
 
 # OUTPUT FORMAT
 
