@@ -315,15 +315,18 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Incorporate bullet points for easy readability.
 - Use frequent line breaks to separate ideas.
 - Use active voice; avoid passive voice.
+- Use conversational and engaging tone that combines clarity with depth. Employ a persuasive style that logically presents arguments while inviting readers to form their own opinions.
 - Focus on practical, actionable insights.
 - Use specific examples and personal experiences to illustrate points.
 - Incorporate data or statistics to support claims when possible.
 - Ask thought-provoking questions to encourage reader reflection.
 - Use ""you"" and ""your"" to directly address the reader.
 - Use a mix of simple, compound, and complex sentences to create a more dynamic flow.
-- Utilize idioms, colloquialisms, or creative language
+- Use idioms, colloquialisms, or creative language.
+- Use anecdotes
 - Avoid metaphors and clichés.
 - Avoid generalizations.
+- Do not generate generic statements that cover topics broadly.
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
 - Do not output warnings or notes—just the output requested.
 - Do not use hashtags.
