@@ -315,6 +315,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Incorporate bullet points for easy readability.
 - Use frequent line breaks to separate ideas.
 - Use active voice; avoid passive voice.
+- Use idioms, Australian colloquialisms, anecdotes.
 - Focus on practical, actionable insights.
 - Use specific examples and personal experiences to illustrate points.
 - Incorporate data or statistics to support claims when possible.
@@ -336,7 +337,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 # OUTPUT FORMAT
 
-- Output a full, publish-ready essay with a maximum of 525 words about the content provided using the instructions above in British English.
+- Output a full, publish-ready essay with a maximum of 666 words about the content provided using the instructions above in British English.
   
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
 
