@@ -294,25 +294,18 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 # OUTPUT INSTRUCTIONS
 
-- Write the essay exactly like Paul Graham would write it as seen in the examples above using British English. 
+- Write the essay exactly like Paul Graham would write it as seen in the examples above. 
 - Use the adjectives and superlatives that are used in the examples, and understand the TYPES of those that are used, and use similar ones and not dissimilar ones to better emulate the style.
 - That means the essay should be written in a simple, conversational style, not in a grandiose or academic style.
 - Use the same style, vocabulary level, and sentence structure as Paul Graham.
 - Follow the nuance or creativity found in human writing
-- Do not be vague or overly broad specially if you are covering a wide range of topics
-- Do not repeat items in the output sections.
-- Do not start items with the same opening words.
-- Do not use introductory phrases or sentence starters like "In a world...", "So the next time...", "Next time...", "In the...", "The key is...", etc.
-- Do not use cliches or jargon or stock phrases or phrasal templates in your conclusion paragraphs, hook paragraphs, and lead-ins.
-- Do not include headings or subheadings
-- Do not start items with """"""But, However""""""
-- Use paragraphs of varying lengths, as Paul Graham does
 - Incorporate occasional short, punchy sentences for emphasis
 - End with a strong concluding paragraph that ties back to the opening
 - Your writing style is spartan and informative.
 - Use clear, simple language.
 - Employ short, impactful sentences.
 - Incorporate bullet points for easy readability.
+- Use paragraphs of varying lengths, as Paul Graham does
 - Use frequent line breaks to separate ideas.
 - Use active voice; avoid passive voice.
 - Use conversational and engaging tone that combines clarity with depth. Employ a persuasive style that logically presents arguments while inviting readers to form their own opinions.
@@ -322,10 +315,15 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Ask thought-provoking questions to encourage reader reflection.
 - Use ""you"" and ""your"" to directly address the reader.
 - Use a mix of simple, compound, and complex sentences to create a more dynamic flow.
-- Use idioms, colloquialisms, or creative language.
-- Use anecdotes
+- Use idioms, colloquialisms, anecdotes or creative language.
 - Avoid metaphors and clichés.
 - Avoid generalizations.
+- Do not be vague or overly broad specially if you are covering a wide range of topics
+- Do not repeat items in the output sections.
+- Do not start items with the same opening words.
+- Do not use introductory phrases or sentence starters like """"""In a world, So the next time, Next time, In the, The key is, But, However"""""", etc.
+- Do not use cliches or jargon or stock phrases or phrasal templates in your conclusion paragraphs, hook paragraphs, and lead-ins.
+- Do not include headings or subheadings
 - Do not generate generic statements that cover topics broadly.
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
 - Do not output warnings or notes—just the output requested.
@@ -336,26 +334,19 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not use adjectives and adverbs.
 - Do NOT use these words:
 """"""can, may, just, that, very, really, literally, actually, certainly, probably, basically, could, maybe, delve, embark, enlightening, esteemed, shed light, craft, crafting, imagine, realm, game-changer, unlock, discover, skyrocket, abyss, you're not alone, in a world where, revolutionize, disruptive, utilize, utilizing, dive deep, tapestry, illuminate, unveil, pivotal, enrich, intricate, elucidate, hence, furthermore, realm, however, harness, exciting, groundbreaking, cutting-edge, remarkable, it. remains to be seen, glimpse into, navigating, landscape, stark, testament, in summary, in conclusion, moreover,`  boost, bustling, opened up, powerful, inquiries, ever-evolving, so next time you, next time you, so the next time, remember, the key is, balance is, meticulous, it's about""""""
-- Write a detailed prompt for an AI Image Generator for this essay. You will put this in the [IMAGE DESCRIPTION] Section.
 
 # OUTPUT FORMAT
 
-- Output a full, publish-ready essay about the content provided using the instructions above using British English.
-
+- Output a full, publish-ready essay about the content provided using the instructions above in British English.
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", etc.
-
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
-
 - Do not use cliches or jargon.
-
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
-
 - Do not output warnings or notes—just the output requested.
-
 - The essay should be a maximum of 250 words.
-  
 - Write a concise and precise Twitter version of the essay by maximising a 300 character limit. Append this after an [X] Subheading.
-
+- Write a detailed prompt for an AI Image Generator for this essay. You will put this in the [IMAGE DESCRIPTION] Section.
+- 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
 
 # INPUT:
