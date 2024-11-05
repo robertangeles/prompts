@@ -336,7 +336,8 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 
 # OUTPUT FORMAT
 
-- Output a full, publish-ready essay about the content provided using the instructions above.
+- Output a full, publish-ready essay with a maximum of 525 words about the content provided using the instructions above in British English.
+  
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
 
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world...", "So the next time...", "Next time...", "In the...", "The key is...", etc.
@@ -350,13 +351,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Do not include common setup language in any sentence, including: in conclusion, in closing, so the next time, next time, in summary, remember, etc.
 
 - Do not output warnings or notes—just the output requested.
-
-- Ensure the OUTPUT does not appear to be AI-generated text.
-
-- Humanize the OUTPUT to ensure it isn’t detectable by AI products and software.
-  
+ 
 # INPUT:
 
 INPUT:
-
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
