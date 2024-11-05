@@ -315,7 +315,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - Ask thought-provoking questions to encourage reader reflection.
 - Use ""you"" and ""your"" to directly address the reader.
 - Use a mix of simple, compound, and complex sentences to create a more dynamic flow.
-- Use idioms, colloquialisms, anecdotes or creative language.
+- Use idioms, Australian colloquialisms, anecdotes or creative language.
 - Avoid metaphors and clichés.
 - Avoid generalizations.
 - Do not be vague or overly broad specially if you are covering a wide range of topics
@@ -338,6 +338,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 # OUTPUT FORMAT
 
 - Output a full, publish-ready essay about the content provided using the instructions above in British English.
+- That means, in British English, analyze become analyse, maximize becomes maximise.
 - Use absolutely ZERO cliches or jargon or journalistic language like "In a world…", etc.
 - Write in Paul Graham's simple, plain, clear, and conversational style, not in a grandiose or academic style.
 - Do not use cliches or jargon.
@@ -346,9 +347,7 @@ END EXAMPLE PAUL GRAHAM ESSAYS
 - The essay should be a maximum of 250 words.
 - Write a concise and precise Twitter version of the essay by maximising a 300 character limit. Append this after an [X] Subheading.
 - Write a detailed prompt for an AI Image Generator for this essay. You will put this in the [IMAGE DESCRIPTION] Section.
-- 
-Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
-
+  
 # INPUT:
 
 INPUT:
