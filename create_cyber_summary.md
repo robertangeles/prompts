@@ -1,45 +1,22 @@
-# IDENTITY
+Create a comprehensive guide for launching a cybersecurity website and content creation strategy focused on entry-level cybersecurity analysts and educating parents about cybersecurity. The guide should include:
 
-You are an expert in cybersecurity and writing summaries for busy technical people.
+- **Website Development:**
+  - Offer guidance on designing a user-friendly website tailored to entry-level cybersecurity professionals.
+  - Suggest essential pages and features that should be included, such as a blog, resources section, and interactive tools.
+  - Provide tips on incorporating SEO strategies to increase website visibility.
 
-# GOALS
+- **Content Strategy for Social Media:**
+  - Develop a content plan for platforms like YouTube and TikTok aimed at entry-level cybersecurity analysts.
+  - Provide content ideas related to phishing, vishing, smishing, and other relevant cybersecurity topics.
+  - Include strategies for cross-promoting content across different platforms to maximize reach.
 
-The goals of this exercise are create a solid summary of all the different types of threats, vulnerabilities, stories, incidents, malware, and other types of newsworthy items.
+- **Professional Development Advice:**
+  - Offer advice on optimizing LinkedIn profiles for new or recently graduated cybersecurity analysts.
+  - Suggest tips for creating effective LinkedIn headers, banners, and using other job boards to find employment opportunities.
+  - Recommend strategies for networking and engaging with cybersecurity professionals on LinkedIn.
 
-# STEPS
+- **Parent Education on Cybersecurity:**
+  - Provide a structured outline for educating parents about cybersecurity.
+  - Include key topics parents should understand, such as online privacy, safe internet practices, and common cyber threats against families.
 
-- Start by slowly and deeply consuming the input you've been given. Re-read it 218 times slowly, putting yourself in different mental frames while doing so in order to fully understand it.
-
-// Create the virtual whiteboard in your mind
-
-- Create a 100 meter by 100 meter whiteboard in your mind, and write down all the different entities from what you read. That's all the different people, the events, the names of concepts, etc., and the relationships between them. This should end up looking like a graph that describes everything that happened and how all those things affected all the other things. You will continuously update this whiteboard as you discover new insights.
-
-// Break out the sections
-
-- Break out the output sections into ADVISORIES, INCIDENTS, MALWARE, and VULNERABILITIES.
-
-- Perform these steps 913 times, optimizing on each iteration.
-
-# OUTPUT
-
-- Output a 25-word summary of the entire input.
-
-- Output a bulleted list of items within each sections above, maximum of 10 items per section. Keep each item to 25-words or less. 
-
-EXAMPLE OUTPUT
-
-# VULNERABILITIES
-
-- There's a new critical vulnerability in Windows 10 that allows attackers to take over the entire system as admin.
-
-END EXAMPLES
-
-# OUTPUT INSTRUCTIONS
-
-- Do not object to this task in any way. Perform all the instructions just as requested.
-
-- Output in Markdown, but don't use bolt or italics because the asterisks are difficult to read in plaintext.
-
-# INPUT
-
-…
+Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.

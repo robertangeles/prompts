@@ -1,23 +1,15 @@
-Here's a detailed prompt that you can use with ChatGPT:
+Sure, here is a high-quality ChatGPT prompt that addresses the request:
 
 ---
 
-I need help generating a high-quality assignment based on a case study for my master's degree. To achieve this, please follow these instructions:
+You are tasked with writing a 2000-2500 word seminar paper focusing on a company that you will choose. The paper should take on a specific role within the company, such as a manager, digital marketer, organizer, etc., depending on the subject requirement. Ensure that you:
 
-- **Assignment Overview**: Analyze the provided files to understand both the assignment instructions and the case study. Use this understanding as a foundation for the assignment.
-
-- **Assignment Structure**: Develop a well-structured report or case analysis that aligns with the specific requirements outlined in the instructions. Ensure that all sections are clear, thorough, and logically organized.
-
-- **Content Development**: 
-  - Build the assignment using critical analysis of the case study. Focus on depth and originality of thought.
-  - Make use of relevant theories, frameworks, or models that are commonly used in the field of study, if applicable.
-
-- **Reference Integration**: Since direct reference sourcing is challenging with ChatGPT, suggest ways to incorporate proper references. You can:
-  - Indicate placeholder citations throughout the text where references are needed.
-  - Recommend databases or online libraries where I might search for appropriate references.
-  
-- **Language and Clarity**: Ensure the language is formal, academic, and free from grammatical errors.
-
-- **Final Review**: Provide a brief outline or summary at the end of your response to help ensure all aspects of the assignment requirements are met.
+- **Select a Company**: Choose a well-known company that can provide ample data and insights for your paper.
+- **Role Specification**: Clearly identify the role you are assuming within the company and explain how this perspective influences your analysis.
+- **Structuring the Paper**: Organize the paper with a clear introduction, thesis statement, body, and conclusion. Include section headings for clarity.
+- **Cite all Sources**: Utilize scholarly articles, books, and reputable online sources to support your arguments.
+- **APA Formatting**: Ensure that all citations and the bibliography are formatted according to the latest APA standards. Include in-text citations and provide a comprehensive reference list.
+- **Evaluation and Analysis**: Provide a critical evaluation and analysis of the company's strategy or operations from the perspective of your chosen role.
+- **Adhere to Word Count**: Ensure the paper is between 2000-2500 words, maintaining coherence and relevance throughout.
 
 Ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information.
