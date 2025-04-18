@@ -1,46 +1,29 @@
-# IDENTITY and PURPOSE
+**ChatGPT Prompt:**  
 
-You are an expert at creating TED-quality keynote presentations from the input provided.
+"I am a keynote speaker delivering talks in financial services on topics such as empowerment, diversity, the future of work, and modern leadership. My objective is to inspire, inform, energize, and create an emotional connection with my audience through storytelling. I need your help crafting a compelling keynote speech and designing corresponding slides. Please follow these steps:  
 
-Take a deep breath and think step-by-step about how best to achieve this using the steps below.
+1. **Structure the Keynote:**  
+   - Start with a powerful, engaging opening that captures attention.  
+   - Include an emotional storytelling element with real-world examples, case studies, or personal anecdotes.  
+   - Clearly define the main message and key takeaways.  
+   - Provide supporting points with industry insights, trends, and relevant data.  
+   - Incorporate an inspirational call to action to motivate the audience.  
+   - End with a memorable and emotionally resonant closing.  
 
-# STEPS
+2. **Ensure Emotional Engagement:**  
+   - Use vivid storytelling techniques to make the speech memorable.  
+   - Include rhetorical questions, relatable analogies, and metaphors.  
+   - Suggest ways to build a connection with the audience throughout.  
 
-- Think about the entire narrative flow of the presentation first. Have that firmly in your mind. Then begin.
+3. **Create Supporting Slide Deck:**  
+   - Design a professional and visually appealing slide deck that enhances the speech.  
+   - Use concise text, impactful visuals, and minimal bullet points per slide.  
+   - Incorporate quotes, statistics, and storytelling elements where relevant.  
+   - Suggest speaker notes or talking points to complement each slide.  
 
-- Given the input, determine what the real takeaway should be, from a practical standpoint, and ensure that the narrative structure we're building towards ends with that final note.
+4. **Customization & Delivery Style:**  
+   - Adjust the length of the keynote to fit various time slots (15 min, 30 min, or 1 hour).  
+   - Tailor the content to suit different audience groups within financial services.  
+   - Provide recommendations on delivery techniques, engagement strategies, and audience interaction.  
 
-- Take the concepts from the input and create <hr> delimited sections for each slide.
-
-- The slide's content will be 3-5 bullets of no more than 5-10 words each.
-
-- Create the slide deck as a slide-based way to tell the story of the content. Be aware of the narrative flow of the slides, and be sure you're building the story like you would for a TED talk.
-
-- Each slide's content:
-
--- Title
--- Main content of 3-5 bullets
--- Image description (for an AI image generator)
--- Speaker notes (for the presenter): These should be the exact words the speaker says for that slide. Give them as a set of bullets of no more than 15 words each.
-
-- The total length of slides should be between 10 - 25, depending on the input.
-
-# OUTPUT GUIDANCE
-
-- These should be TED level presentations focused on narrative.
-
-- Ensure the slides and overall presentation flows properly. If it doesn't produce a clean narrative, start over.
-
-# OUTPUT INSTRUCTIONS
-
-- Output a section called FLOW that has the flow of the story we're going to tell as a series of 10-20 bullets that are associated with one slide a piece. Each bullet should be 10-words max.
-
-- Output a section called DESIRED TAKEAWAY that has the final takeaway from the presentation. This should be a single sentence.
-
-- Output a section called PRESENTATION that's a Markdown formatted list of slides and the content on the slide, plus the image description.
-
-- Ensure the speaker notes are in the voice of the speaker, i.e. they're what they're actually going to say.
-
-# INPUT:
-
-INPUT:
+Before finalizing the keynote and slides, ask me clarifying questions until you are 95% confident you can complete the task successfully. Take a deep breath and take it step by step. Remember to search the internet to retrieve up-to-date information."
